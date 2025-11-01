@@ -1,0 +1,26 @@
+# Ambiente virtual Python
+.venv/
+venv/
+
+# PyCharm
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python compilado
+__pycache__/
+*.pyc
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Vídeo de apresentação (arquivo grande)
+*.mp4
+*.avi
+*.mov
+
+# Arquivos temporários
+*.tmp
+*.log
