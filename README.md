@@ -38,7 +38,6 @@ O projeto utiliza o **Iris Dataset**, coletado pelo estatístico Ronald Fisher e
 ### Bibliotecas
 ```
 pandas          # Manipulação de dados
-numpy           # Operações numéricas
 scikit-learn    # Algoritmos de ML
 matplotlib      # Visualizações
 seaborn         # Gráficos estatísticos
@@ -227,14 +226,13 @@ Instituto Nacional de Telecomunicações - Inatel
 
 ## 👥 Autores
 
-**[Nome do Parceiro]** - Engenharia de [Computação/Software]
-- GitHub: [@parceiro-usuario](https://github.com/parceiro-usuario)
-- Email: parceiro.email@gec.inatel.br
+**Ana Luiza Martins** - Engenharia da Computação
+- GitHub: [@AnaLuizaMartins29](https://github.com/AnaLuizaMartins29)
+- Email: ana.al@gec.inatel.br
 
-**[Nicholas do Vale Siécola]** - Engenharia de [Computação]
+**Nicholas do Vale Siécola** - Engenharia da Computação
 - GitHub: [@NSiecola](https://github.com/NSiecola)
 - Email: n.siecola@gec.inatel.br
-- 
 ---
 
 ## 📄 Licença
