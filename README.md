@@ -2,7 +2,7 @@
 
 ## 📋 Sobre o Projeto
 
-Este projeto implementa um classificador de Machine Learning para identificar espécies de flores Iris com base em suas características morfológicas. Desenvolvido como parte da AG2 (Avaliação Global 2) do curso de Engenharia de Computação/Software do Inatel.
+Este projeto implementa um classificador de Machine Learning para identificar espécies de flores Iris com base em suas características morfológicas. Desenvolvido como parte da AG002 (Avaliação Global 2) do curso de Engenharia de Computação/Software do Inatel.
 
 ### 🎯 Objetivo
 
